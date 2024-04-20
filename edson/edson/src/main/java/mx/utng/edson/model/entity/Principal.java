@@ -1,8 +1,4 @@
-/**
- * @autor Zahir Andres Rodriguez Mora
- * @category GDS0622
- * @size 17/04/2024
- */
+
 package mx.utng.edson.model.entity;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
