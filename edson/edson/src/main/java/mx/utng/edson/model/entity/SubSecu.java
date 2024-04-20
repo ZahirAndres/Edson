@@ -1,9 +1,4 @@
 package mx.utng.edson.model.entity;
-/**
- * @correo Zahir Andres Rodriguez Mora
- * @category GDS0622
- * @size 17/04/2024
- */
 
 import java.util.Date;
 
