@@ -8,11 +8,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import mx.utng.edson.model.dao.ISubSecuDao;
 import mx.utng.edson.model.entity.SubSecu;
-/**
- * @autor Zahir Andres Rodriguez Mora
- * @category GDS0622
- * @size 17/04/2024
- */
+
 @Service
 public class ISubSecuServiceImpl implements ISubSecuService{
 
