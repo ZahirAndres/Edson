@@ -4,11 +4,7 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
-/**
- * @autor Zahir Andres Rodriguez Mora
- * @category GDS0622
- * @size 17/04/2024
- */
+
 import jakarta.persistence.EntityManager;
 import mx.utng.edson.model.entity.Principal;
 @Repository
