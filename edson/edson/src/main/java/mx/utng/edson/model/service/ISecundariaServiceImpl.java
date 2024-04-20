@@ -8,11 +8,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import mx.utng.edson.model.dao.ISecundariaDao;
 import mx.utng.edson.model.entity.Secundaria;
-/**
- * @autor Zahir Andres Rodriguez Mora
- * @category GDS0622
- * @size 17/04/2024
- */
+
 @Service
 public class ISecundariaServiceImpl implements ISecundariaService{
 
