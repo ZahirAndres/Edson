@@ -1,10 +1,5 @@
 package mx.utng.edson.controller;
 
-/**
- * @autor Zahir Andres Rodriguez Mora
- * @category GDS0622
- * @size 17/04/2024
- */
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
